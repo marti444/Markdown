@@ -25,5 +25,37 @@ Para crear listas ordenadas usa numertos seguidos de un punto.
 
 ![image](https://github.com/user-attachments/assets/bb5fa292-c8ee-4c43-b588-8f7be26f8d68)
 
+### Enlaces 
+Crea enlances usando corchetes y parentesis. 
+
+![image](https://github.com/user-attachments/assets/5f824378-85e7-465c-8bae-9c60d1b611fc)
+
+### Imagenes
+Similar a los enlaces pero precedido por un signo de exclamacion.
+
+![image](https://github.com/user-attachments/assets/2c0331fb-a2ea-4a42-925b-c8c1c5098c82)
+
+### Citas
+Las citas se generar utilizando el carácter mayor que > al comienzo del bloque de texto.
+
+![image](https://github.com/user-attachments/assets/57f6ab72-7645-4c7e-a8ea-6b55d7c772f2)
+
+### Codigo
+La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `. Esto se corresponde con la etiqueta HTML <code>
+
+![image](https://github.com/user-attachments/assets/c425815a-46d7-4702-921c-d7ae342db542)
+
+### Saltos en Linea
+
+Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
+
+
+
+
+
+
+
+
+
 
 
